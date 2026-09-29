@@ -1,0 +1,7 @@
+{
+  "name": "PathLedger",
+  "engine": "pathledger",
+  "port": 8113,
+  "kind": "paths",
+  "fixture": "runtime/operations-archive"
+}

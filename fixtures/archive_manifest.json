@@ -1,0 +1,10 @@
+{
+  "README.txt": "SYNTHETIC TEST FIXTURE. These names intentionally trigger path compatibility rules. Not client data.\n",
+  "clients/CON.txt": "Reserved Windows device name fixture.\n",
+  "clients/Zoë Müller.txt": "Unicode is valid; inspect consuming application encoding.\n",
+  "clients/quote:revision.txt": "Colon fixture.\n",
+  "historical-business-records-2020-to-2026/regional-customer-service-and-operations/archived-monthly-reconciliation-documents/approved-financial-and-delivery-statements/supporting-materials-and-attachments/quarterly-migration-review/final-review-export-and-signoff.txt": "Intentionally long relative path fixture.\n",
+  "reports/approved .txt": "Ordinary valid name fixture.\n",
+  "reports/quarterly-report.": "Trailing-dot fixture.\n",
+  "reports/status.log": "2026-09-28T09:00:00Z INFO fixture created\n"
+}
