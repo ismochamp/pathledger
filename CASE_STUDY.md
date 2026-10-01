@@ -27,9 +27,6 @@ The interface calls a real compiled executable for each analysis. Results are no
 ### What was verified
 Compiled with Apple clang++ in C++17 mode with no warnings. Nine engine tests and six live HTTP checks passed. The bundled archive produced 3 blocking findings, 1 path warning and 1 Unicode review item. See TEST_RESULTS.md and executable tests for exact coverage.
 
-### Outcome
-The delivered outcome is a locally runnable utility with an input-to-report workflow, source code, build configuration, meaningful automated checks and upload-ready portfolio copy. No revenue, time-saving percentage, client endorsement or production adoption is invented.
-
 ### Accurate positioning
 Independent new modernization-support tool; no historical client migration is claimed. Windows execution and MSVC compilation are not verified. ASCII case comparison is not full Windows Unicode case folding. Long-path checking assumes C:\Archive\; application-specific Windows validation remains required.
 
@@ -40,5 +37,5 @@ This project demonstrates modernization-support engineering. It is not represent
 - Local Python dashboard with a start script
 - Input fixtures and executable tests
 - CSV, JSON and HTML export routes
-- Malt description, case study, verification record and screenshot captions
-- Actual browser screenshots and portfolio PDF added during final packaging
+- Case study, verification record and screenshot captions
+- Actual browser screenshots added during final packaging

@@ -79,7 +79,6 @@ The fixture generator and filesystem tests require a POSIX filesystem capable of
 
 - [Case study](CASE_STUDY.md)
 - [Recorded verification](TEST_RESULTS.md)
-- [Portfolio PDF](PORTFOLIO.pdf)
 - [Screenshot captions](screenshots/CAPTIONS.md)
 
 ## License
